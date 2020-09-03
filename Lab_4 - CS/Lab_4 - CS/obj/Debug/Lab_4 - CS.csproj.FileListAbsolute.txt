@@ -1,0 +1,6 @@
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_4\Lab_4 - CS\Lab_4 - CS\bin\Debug\Lab_4 - CS.exe.config
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_4\Lab_4 - CS\Lab_4 - CS\bin\Debug\Lab_4 - CS.exe
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_4\Lab_4 - CS\Lab_4 - CS\bin\Debug\Lab_4 - CS.pdb
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_4\Lab_4 - CS\Lab_4 - CS\obj\Debug\Lab_4 - CS.csprojResolveAssemblyReference.cache
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_4\Lab_4 - CS\Lab_4 - CS\obj\Debug\Lab_4 - CS.exe
+C:\Users\xandi\Documents\UFRGS\Classificação e Pesquisa de Dados - 2018_2\Lab_4\Lab_4 - CS\Lab_4 - CS\obj\Debug\Lab_4 - CS.pdb
